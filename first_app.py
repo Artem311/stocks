@@ -4,7 +4,6 @@ import altair as alt
 from urllib.error import URLError
 import numpy as np
 import matplotlib.pyplot as plt
-import tkinter
 import matplotlib
 import scipy
 import warnings
