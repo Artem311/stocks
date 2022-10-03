@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
 import pandas as pd
 import streamlit as st
 import altair as alt
